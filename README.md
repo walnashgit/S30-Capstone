@@ -2,6 +2,12 @@
 
 This project is a multimodal GPT capable of handling images, audio and text as input for context for question and answer from the GPT. This uses PHI2 LLM.
 
+## Demo Video:
+https://youtu.be/Xqf1ZzpkgDc?si=7kPK3iks4WX9DY-0
+
+## Demo Link:
+https://huggingface.co/spaces/walnash/Phi2MultiModal
+
 ## Training
 
 ### Pre training
